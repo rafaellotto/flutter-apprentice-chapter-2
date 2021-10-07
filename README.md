@@ -1,16 +1,17 @@
-# recipes
+# Recipes
 
-A new Flutter project.
+An app to display recipes and calculate the ingredients for multiple servings
 
-## Getting Started
+## Homepage
 
-This project is a starting point for a Flutter application.
+![Recipes index](https://github.com/ralomach/flutter-apprentice-chapter-2/raw/main/screenshots/flutter_01.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Recipe detail page
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+With initial serving quantity
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Recipe details page](https://github.com/ralomach/flutter-apprentice-chapter-2/raw/main/screenshots/flutter_02.png)
+
+With increased serving quantity
+
+![Recipe details page with increased serving](https://github.com/ralomach/flutter-apprentice-chapter-2/raw/main/screenshots/flutter_03.png)
